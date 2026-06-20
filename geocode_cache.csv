@@ -1,0 +1,877 @@
+tourney_name,latitude,longitude
+Brisbane,-27.4689623,153.0235009
+Sydney,-33.8698439,151.2082848
+Perth,-31.9558967,115.8605784
+Adelaide,-34.9281805,138.5999312
+Pune,18.5213738,73.8545071
+Auckland,-36.852095,174.7631803
+Melbourne,-37.8142454,144.9631732
+"Cordoba, Argentina",-31.4166867,-64.1834193
+Dallas,32.7762719,-96.7968559
+Montpellier,43.6112422,3.8767337
+Delray Beach,26.4614625,-80.0728201
+Buenos Aires,-34.6095579,-58.3887904
+Rotterdam,51.9244424,4.47775
+Doha,25.3108807,51.5081812
+Rio De Janeiro,-22.9110137,-43.2093727
+Marseille,43.2963986,5.3777888
+Acapulco,16.8680495,-99.8940182
+Dubai,25.0742823,55.1885387
+"Santiago, Chile",-33.4376995,-70.6510671
+Indian Wells,33.7217965,-116.338303
+Miami,25.7741566,-80.1935973
+Estoril,38.7095707,-9.3901368
+Houston,29.7589382,-95.3676974
+Marrakech,31.6258257,-7.9891608
+Monte Carlo,43.7402961,7.426559
+Barcelona,41.3825802,2.177073
+Munich,48.1371079,11.5753822
+Banja Luka,44.7720845,17.1917651
+Madrid,40.416782,-3.703507
+Rome,41.8933203,12.4829321
+Geneva,46.2017559,6.1466014
+Lyon,45.7578137,4.8320114
+Paris,48.8534951,2.3483915
+s Hertogenbosch,51.6889387,5.303116
+Stuttgart,48.7784485,9.1800132
+Halle,51.4824354,11.9712985
+London,51.5074456,-0.1277653
+Mallorca,39.613432,2.8829185
+Eastbourne,50.7664372,0.2781546
+Wimbledon,51.4214787,-0.2064027
+Gstaad,46.4721619,7.288748
+Bastad,56.4268963,12.8608789
+Newport,41.4899827,-71.3137707
+Atlanta,33.7544657,-84.3898151
+Hamburg,53.5501721,10.0013165
+Umag,45.4323587,13.5224098
+Kitzbuhel,47.4463585,12.3911473
+"Los Cabos, Baja California Sur, Mexico",23.2718481,-109.6897684
+Washington,38.8950982,-77.0363849
+Toronto,43.6534817,-79.3839347
+Cincinnati,39.1012809,-84.5127405
+Winston-Salem,36.0998131,-80.2440518
+New York,40.7127281,-74.0060152
+Chengdu,30.659867,104.063315
+Zhuhai,22.273734,113.5721327
+Astana,51.1159933,71.4677059
+Beijing,39.9057136,116.3912972
+Shanghai,31.2312707,121.4700152
+Stockholm,59.3251172,18.0710935
+Tokyo,35.6768601,139.7638947
+Antwerp,51.2211097,4.3997081
+Basel,47.5581077,7.5878261
+Vienna,48.2083537,16.3725042
+Metz,49.1196964,6.1763552
+Sofia,42.6977028,23.3217359
+Turin,45.0677551,7.6824892
+Jeddah,21.5504432,39.1742363
+Hong Kong,22.3492155,114.1857978
+Bucharest,44.4361414,26.102684
+Montreal,45.5031824,-73.5698065
+Hangzhou,30.2489634,120.2052342
+Almaty,43.2363924,76.9457275
+Belgrade,44.8153318,20.4456588
+Rio de Janeiro,-22.9110137,-43.2093727
+Brussels,50.8467372,4.352493
+Athens,33.9597677,-83.376398
+"Tucuman, Argentina",-27.0448424,-65.3657954
+"Rio Cuarto, Argentina",-33.1237585,-64.3489782
+"Rosario-Santa Fe, Argentina",-32.9261741,-60.7390697
+"Olavarria, Argentina",-36.8938752,-60.3231676
+"Buenos Aires, Argentina",-34.6095579,-58.3887904
+"Lujan, Argentina",-34.5661734,-59.1152598
+"Mendoza, Argentina",-34.5970325,-68.7304797
+"Villa Maria, Argentina",-32.4106245,-63.2435809
+"Rosario, Argentina",-32.9593609,-60.6617024
+"Burnie, Australia",-41.0523688,145.9064073
+"Swan Hill, Australia",-35.3390784,143.5588436
+"Canberra, Australia",-35.2975906,149.1012676
+"Caloundra, Australia",-26.7981633,153.1354434
+"Darwin, Australia",-12.46044,130.8410469
+"Cairns, Australia",-16.9206657,145.7721854
+"Brisbane, Australia",-27.4689623,153.0235009
+"Gold Coast, Australia",-28.0023731,153.4145987
+"Telfs, Austria",47.3046511,11.071515
+"Bad Waltersdorf, Austria",47.168506,16.0088882
+"Warmbad Villach, Austria",46.5887498,13.8287113
+"Vienna, Austria",48.2083537,16.3725042
+"Duffel, Belgium",51.0957176,4.5061988
+"Arlon, Belgium",49.6834601,5.8167711
+"Koksijde, Belgium",51.1187723,2.6349277
+"Doboj, Bosnia and Herzegovina",44.7324559,18.0850157
+"Prijedor, Bosnia and Herzegovina",44.9801369,16.7123704
+"Brcko, Bosnia and Herzegovina",44.8771222,18.8095022
+"Kiseljak, Bosnia and Herzegovina",43.9431668,18.0774711
+"Sarajevo, Bosnia and Herzegovina",43.8570713,18.4126147
+"Cochabamba, Bolivia",-17.4012458,-66.1675681
+"Santa Cruz, Bolivia",-17.7834217,-63.1820853
+"Mogi das Cruzes, Brazil",-23.5234284,-46.1926671
+"Belem, Brazil",-1.45056,-48.4682453
+"Sao Paulo, Brazil",-23.5506507,-46.6333824
+"Lajeado, Brazil",-29.4671522,-51.9624046
+"Pazardzhik, Bulgaria",42.1486841,24.1531871
+"Montreal, Canada",45.5031824,-73.5698065
+"Edmonton, Canada",53.5462055,-113.491241
+"Saint-Augustin, Canada",51.2252759,-58.6494821
+"Brazzaville, Republic of the Congo",-4.2694407,15.2712256
+"Concepcion, Chile",-36.8270698,-73.0502064
+"Luzhou, China",28.5297899,105.5382725
+"Tianjin, China",39.3032619,117.4163641
+"Shanghai, China",31.2312707,121.4700152
+"Guiyang, China",26.5878031,106.7086936
+"Anapoima, Colombia",4.5493011,-74.5359119
+"Mosquera, Colombia",4.7002001,-74.2385058
+"Porec, Croatia",45.2271961,13.5957333
+"Rovinj, Croatia",45.0807411,13.6417282
+"Opatija, Croatia",45.3349238,14.3067834
+"Dubrovnik, Croatia",42.6491029,18.0939501
+"Osijek, Croatia",45.5548793,18.6953685
+"Split, Croatia",43.5116383,16.4399659
+"Alaminos-Larnaca, Cyprus",34.7747994,33.4614931
+"Limassol, Cyprus",34.6852901,33.0332657
+"Prague, Czech Republic",50.0874654,14.4212535
+"Most, Czech Republic",50.5032737,13.636112
+"Jablonec nad Nisou, Czech Republic",50.7240899,15.1710958
+"Pardubice, Czech Republic",50.0385812,15.7791356
+"Vejle, Denmark",55.707931,9.5329419
+"Aarhus, Denmark",56.1496278,10.2134046
+"Santo Domingo, Dominican Republic",18.4713858,-69.8918436
+"Santo Domingo de los Tsachilas, Ecuador",-0.3158526,-79.2224149
+"Cairo, Egypt",30.0443879,31.2357257
+"Sharm el-Sheikh, Egypt",27.8644422,34.295447
+"Manacor, Spain",39.5696458,3.2106461
+"Palmanova, Spain",39.5237047,2.5383777
+"Reus, Spain",41.1555564,1.1076133
+"Torello, Spain",42.0478304,2.2643391
+"Sanxenxo, Spain",42.4220772,-8.8353365
+"La Nucia, Spain",38.6133727,-0.1257319
+"Telde, Spain",27.9984538,-15.4166761
+"Sabadell, Spain",41.5460801,2.1083214
+"Mataro, Spain",41.5398348,2.4448926
+"Gurb, Spain",41.9409869,2.2433019
+"Valldoreix, Spain",41.4574698,2.0476516
+"Martos, Spain",37.7222633,-3.9703241
+"Bakio, Spain",43.4230397,-2.8142578
+"Gandia, Spain",38.9675925,-0.1803423
+"Roda de Bara, Spain",41.1857961,1.4569904
+"Denia, Spain",38.8408382,0.1061105
+"Madrid, Spain",40.416782,-3.703507
+"Mungia, Spain",43.3617398,-2.8350746
+"Santander, Spain",43.4618932,-3.8100255
+"Castellon, Spain",40.2518568,-0.0615052
+"Vigo, Spain",42.1986395,-8.727956
+"Xativa, Spain",38.988085,-0.5200428
+"Cordoba, Spain",37.8845813,-4.7760138
+"Oviedo, Spain",43.3533452,-5.8795096
+"Melilla, Spain",35.2918698,-2.9409026
+"Zaragoza, Spain",41.6915847,-0.9101268
+"Benicarlo, Spain",40.4180244,0.4229813
+"Valencia, Spain",39.4697065,-0.3763353
+"Alcala de Henares, Spain",40.481954,-3.363981
+"Ceuta, Spain",35.888361,-5.304138
+"Addis Ababa, Ethiopia",9.0358119,38.7524315
+"Hyvinkaa, Finland",60.6311481,24.8603615
+"Vaasa, Finland",63.0957722,21.6159187
+"Bressuire, France",46.8425572,-0.4929017
+"Bagnoles de l'Orne, France",48.5539388,-0.4229186
+"Veigy-Foncenex, France",46.2695471,6.2567358
+"Grenoble, France",45.1875602,5.7357819
+"Poitiers, France",46.5802596,0.340196
+"Toulouse-Balma, France",43.6085352,1.4922596
+"Saint Dizier, France",48.6371125,4.9473513
+"Creteil, France",48.7771486,2.4530731
+"Lons-le-Saunier, France",46.6727037,5.5589973
+"Grasse, France",43.6589011,6.9239103
+"Angers, France",47.4739884,-0.5515588
+"Montauban, France",44.0175835,1.3549991
+"Carnac, France",47.5836629,-3.0794428
+"Uriage, France",45.1507233,5.8383075
+"Bagneres-de-Bigorre, France",43.0658212,0.1530914
+"Bourg-en-Bresse, France",46.2051192,5.2250324
+"Plaisir, France",48.817399,1.9476363
+"Nevers, France",46.9876601,3.1577203
+"Forbach, France",49.1862822,6.8958562
+"Villers-les-Nancy, France",48.6731344,6.1536378
+"Sarreguemines, France",49.1094836,7.0708865
+"Rodez, France",44.3511408,2.5728493
+"Mulhouse, France",47.7467233,7.3389937
+"Sunderland, United Kingdom",54.9058512,-1.3828727
+"Bath, United Kingdom",51.3813864,-2.3596963
+"Loughborough, United Kingdom",52.7723859,-1.2077985
+"Sheffield, United Kingdom",53.3806626,-1.4702278
+"Nottingham, United Kingdom",52.9534193,-1.1496461
+"Roehampton, United Kingdom",51.4498773,-0.2412672
+"Aldershot, United Kingdom",51.2494169,-0.7630148
+"Glasgow, United Kingdom",55.861155,-4.2501687
+"Edgbaston, United Kingdom",52.4709941,-1.9225861
+"Tbilisi, Georgia",41.6934591,44.8014495
+"Telavi, Georgia",41.9197221,45.4703169
+"Nussloch, Germany",49.3228653,8.6959385
+"Oberhaching, Germany",48.0261846,11.5962489
+"Kamen, Germany",51.5918019,7.6616804
+"Meerbusch, Germany",51.2652237,6.6760958
+"Saarlouis, Germany",49.3164661,6.749846
+"Marburg, Germany",50.8090106,8.7704695
+"Kassel, Germany",51.3157833,9.4978479
+"Wetzlar, Germany",50.570561,8.531245
+"Allershausen, Germany",48.4333967,11.6001317
+"Buschhausen, Germany",50.7677269,6.3022318
+"Heraklion, Greece",35.33908,25.1332843
+"Hong Kong, Hong Kong",22.2818333,114.1582831
+"Nyiregyhaza, Hungary",47.9557802,21.7167982
+"Budapest, Hungary",47.4813896,19.1457723
+"Jakarta, Indonesia",-6.1754049,106.827168
+"New Delhi, India",28.6138954,77.2090057
+"Lucknow, India",26.8381,80.9346001
+"Mysuru, India",12.3041464,76.6529521
+"Chennai, India",13.0836939,80.270186
+"Ahmedabad, India",23.0215374,72.5800568
+"Mumbai, India",19.054999,72.8692035
+"Kalaburagi, India",17.2408957,76.7697439
+"Dharwad, India",15.3707296,75.1332867
+"Davangere, India",14.4661266,75.9206361
+"Kish Island, Iran",26.5350665,53.9719803
+"Tehran, Iran",35.6892523,51.3896004
+"Netanya, Israel",32.3286181,34.8566246
+"Trento, Italy",46.1029536,11.1297425
+"Santa Margherita di Pula, Italy",38.9581039,8.9592681
+"Frascati, Italy",41.8082452,12.6803684
+"Chieti, Italy",42.1026928,14.4159053
+"Bergamo, Italy",45.7566557,9.7542192
+"Reggio Emilia, Italy",44.6086674,10.5940667
+"Biella, Italy",45.5669538,8.086912
+"Padova, Italy",45.391408,11.8058487
+"Gubbio, Italy",43.3517605,12.5772959
+"Perugia, Italy",43.1070321,12.4029962
+"Bolzano, Italy",46.6559455,11.2302129
+"Rome, Italy",41.8933203,12.4829321
+"Cattolica, Italy",43.9639933,12.7441515
+"Pozzuoli, Italy",40.822643,14.1219109
+"Forli, Italy",44.2227278,12.041273
+"Selva Gardena, Italy",46.5551877,11.7600992
+"San Gregorio di Catania, Italy",37.565254,15.111788
+"Tsukuba, Japan",36.0833265,140.077279
+"Kashiwa, Japan",35.8676218,139.9756876
+"Karuizawa, Japan",36.3482938,138.5969968
+"Sapporo, Japan",43.061936,141.3542924
+"Takasaki, Japan",36.3220984,139.0032758
+"Yanagawa, Japan",33.1630969,130.4058091
+"Aktobe, Kazakhstan",50.2836938,57.2298129
+"Daegu, South Korea",35.8713,128.6018
+"Changwon, South Korea",35.227956,128.6818586
+"Anseong, South Korea",37.007773,127.279971
+"Al Zahra, Kuwait",29.2713891,48.0041915
+"Zahra, Kuwait",29.2755879,47.9997683
+"Vilnius, Lithuania",54.6870458,25.2829111
+"Esch-sur-Alzette, Luxembourg",49.4959628,5.9850306
+"Tanger, Morocco",35.7696302,-5.8033522
+"Rabat, Morocco",34.0218454,-6.8408929
+"Casablanca, Morocco",33.5945144,-7.6200284
+"Kuching, Malaysia",1.5597561,110.345397
+"Ipoh Perak, Malaysia",4.5570781,101.1154345
+"Kuala Lumpur, Malaysia",3.1516964,101.6942371
+"Xalapa, Mexico",19.5408338,-96.9146374
+"Tabasco, Mexico",17.9999288,-92.6681659
+"Zapopan, Mexico",20.7211203,-103.3913671
+"Morelia, Mexico",19.6546004,-101.2623797
+"Skopje, North Macedonia",41.9962164,21.4318935
+"Alkmaar, Netherlands",52.6008538,4.8170994
+"The Hague, Netherlands",52.0799838,4.3113461
+"Eindhoven, Netherlands",51.4485569,5.4501225
+"Oldenzaal, Netherlands",52.3116616,6.9241615
+"Haren, Netherlands",53.1709841,6.6061413
+"Wellington, New Zealand",-41.2887953,174.7772114
+"Papamoa, New Zealand",-37.7026447,176.2843664
+"Wroclaw, Poland",51.1089776,17.0326689
+"Koszalin, Poland",54.2071799,16.2175411
+"Szczawno, Poland",51.4388599,18.7942608
+"Vila Real de Santo Antonio, Portugal",37.1946052,-7.4155628
+"Faro, Portugal",37.0162944,-7.935182
+"Loule, Portugal",37.1399532,-8.023324
+"Portimao, Portugal",37.1375808,-8.5368426
+"Quinta Do Lago, Portugal",37.8037119,-8.6849265
+"Setubal, Portugal",38.5241783,-8.8932341
+"Idanha-a-Nova, Portugal",39.9260883,-7.2436356
+"Sintra, Portugal",38.8355446,-9.3522371
+"Tavira, Portugal",37.1262493,-7.6499121
+"Vale do Lobo, Portugal",40.6047799,-8.2416254
+"Doha, Qatar",25.3108807,51.5081812
+"Bucharest, Romania",44.4361414,26.102684
+"Satu Mare, Romania",47.7891763,22.8725598
+"Constanta, Romania",44.1767161,28.6507598
+"Cluj Napoca, Romania",46.769379,23.5899542
+"Arad, Romania",46.1753793,21.3196342
+"Kigali, Rwanda",-1.9534357,30.1140089
+"Singapore, Singapore",1.2899175,103.8519072
+"Celje, Slovenia",46.2293889,15.2616828
+"Litija, Slovenia",46.0496825,14.9910757
+"Krsko, Slovenia",45.9576446,15.4946767
+"Store, Slovenia",46.1979164,15.3276728
+"Maribor, Slovenia",46.5576439,15.6455854
+"Kursumlijska Banja, Serbia",43.0578755,21.2550485
+"Belgrade, Serbia",44.8153318,20.4456588
+"Pirot, Serbia",43.1547342,22.5865039
+"Zlatibor, Serbia",43.6742413,19.6124633
+"Trimbach, Switzerland",47.3631152,7.9023314
+"Klosters, Switzerland",46.8829097,9.8750678
+"Sion, Switzerland",46.2311749,7.3588795
+"Trnava, Slovakia",48.374218,17.5809299
+"Poprad, Slovakia",49.0541521,20.2976401
+"Varnamo, Sweden",57.184902,14.0410977
+"Kalmar, Sweden",56.6628826,16.3662382
+"Danderyd, Sweden",59.4043647,18.0358505
+"Falun, Sweden",60.6070068,15.6323059
+"Nakhon Si Thammarat, Thailand",8.6772337,99.7309635
+"Hua Hin, Thailand",12.5699326,99.9573437
+"Tainan, Taiwan",22.9912348,120.184982
+"Tacarigua, Trinidad and Tobago",10.6437356,-61.361173
+"Monastir, Tunisia",35.7707582,10.8280511
+"Antalya, Turkey",36.8865728,30.7030242
+"Bodrum, Turkey",37.0343987,27.430651
+"Punta del Este, Uruguay",-34.9632342,-54.9439981
+"Malibu CA, United States",34.035591,-118.689423
+"Ithaca NY, United States",42.4420456,-76.4970754
+"Edmond OK, United States",35.657971,-97.4801373
+"Wesley Chapel FL, United States",28.1866014,-82.366121
+"Palm Coast FL, United States",29.5541432,-81.2207673
+"Weston FL, United States",33.5363407,-79.0416178
+"Naples FL, United States",26.1542125,-81.7969548
+"Bakersfield CA, United States",35.3738712,-119.019463
+"Calabasas CA, United States",34.1446643,-118.644097
+"Sunrise FL, United States",26.1666888,-80.2787573
+"Vero Beach FL, United States",27.6391177,-80.3979825
+"Orange Park FL, United States",28.549571,-81.293689
+"Pensacola FL, United States",30.4438233,-87.2156403
+"Huntsville AL, United States",33.5562102,-86.8035923
+"Rancho Santa Fe CA, United States",33.0184574,-117.2026633
+"San Diego, United States",32.7174202,-117.162772
+"Wichita, United States",37.6922361,-97.3375448
+"Tulsa, United States",36.1563122,-95.9927516
+"Los Angeles, United States",34.0536909,-118.242766
+"South Bend, United States",41.6833813,-86.2500066
+"Irvine, United States",33.6856969,-117.825981
+"Champaign IL, United States",39.8937537,-87.9377898
+"Albuquerque NM, United States",35.0475266,-106.6235395
+"Las Vegas NV, United States",36.1665796,-115.1505609
+"Harlingen TX, United States",26.1907543,-97.6960599
+"Norman OK, United States",35.2205427,-97.4953397
+"Tallahassee FL, United States",30.4387238,-84.3203972
+"Fayetteville AR, United States",36.1207807,-94.1370087
+"Austin TX, United States",30.268082,-97.7483738
+"Winston-Salem NC, United States",36.0962368,-80.2460992
+"Columbus OH, United States",40.1246672,-83.0868282
+"East Lansing MI, United States",42.7320307,-84.4721678
+"Boca Raton FL, United States",26.367379,-80.1737932
+"Southaven, United States",34.9873822,-90.0034862
+"Lakewood, United States",39.7085736,-105.0846694
+"Dallas, United States",32.7762719,-96.7968559
+"Champaign, United States",40.1164841,-88.2430932
+"Rochester, United States",43.157285,-77.615214
+"Edwardsville, United States",38.8114364,-89.953157
+"Pittsburgh, United States",40.4406968,-80.0025666
+"Decatur, United States",39.8454163,-88.9524151
+"Lesa, Italy",45.829644,8.5648573
+"Poznan, Poland",52.4082663,16.9335199
+"Ystad, Sweden",55.4295203,13.8201171
+"Muttenz, Switzerland",47.525113,7.6477401
+"Bielsko Biala, Poland",49.822118,19.0448936
+"Yinchuan, China",38.4871699,106.2266569
+"Trujillo, Peru",-8.1116778,-79.0287742
+"Herzlia, Israel",32.1656255,34.8469023
+"Lodz, Poland",51.7728245,19.478486
+"Baotao, China",44.7250564,119.6063645
+"Arequipa, Peru",-16.3988667,-71.5369607
+"Pitesti, Romania",44.8572882,24.8721156
+"Anning, China",24.8377491,102.4026832
+"Sofia, Bulgaria",42.6977028,23.3217359
+"Uslar, Germany",51.658901,9.6347785
+"Metzinger, Germany",48.7417244,9.1720691
+"Novi Sad, Serbia",45.2551338,19.8451756
+"Raanana, Israel",32.1860244,34.8678359
+"Frankfurt am Main, Germany",50.1106444,8.6820917
+"Pescara, Italy",42.3102619,13.9575901
+"Eupen, Belgium",50.6305665,6.0312717
+"Curtea de Arges, Romania",45.1469341,24.6779826
+"Ueberlingen, Germany",47.7664456,9.1605106
+"Targu Jiu, Romania",45.0422947,23.2728118
+"Kottingbrunn, Austria",47.9513587,16.2285187
+"Trier, Germany",49.7596208,6.6441878
+"Huy, Belgium",50.5180856,5.2408138
+"Caslano, Switzerland",45.9708722,8.8836544
+"Astana, Kazakhstan",51.1159933,71.4677059
+"Castelo Branco, Portugal",39.9767583,-7.4460599
+"Porto, Portugal",41.1502195,-8.6103497
+"Ajaccio, France",41.9263991,8.7376029
+"Getxo, Spain",43.3431164,-3.0078627
+"Brasov, Romania",45.6525105,25.6105654
+"Esch/Alzette, Luxembourg",49.5036259,5.9487155
+"Laval, Canada",45.5571125,-73.7211779
+"Bacau, Romania",46.5560493,26.9153557
+"Kramsach, Austria",47.4450519,11.8808259
+"Luanda, Angola",-8.8272699,13.2439512
+"Bragado, Argentina",-35.1155766,-60.489771
+"Trelew, Argentina",-43.2531242,-65.3094407
+"Neuquen, Argentina",-38.8502546,-69.832275
+"Azul, Argentina",-36.777492,-59.863442
+"Tsaghkadzor, Armenia",40.5227052,44.6866319
+"Traralgon, Australia",-38.1946636,146.5381646
+"Mildura, Australia",-34.195274,142.1503146
+"Carrara, Australia",-28.02077,153.3683962
+"Villach, Austria",46.6167284,13.8500268
+"Ollersbach, Austria",48.1873864,15.8440588
+"Brussels, Belgium",50.8467372,4.352493
+"Lambermont, Belgium",50.8429244,4.3654807
+"Feira de Santana, Brazil",-12.2578934,-38.9598047
+"Recife, Brazil",-8.0584933,-34.8848193
+"Maceio, Brazil",-9.6476843,-35.7339264
+"Londrina, Brazil",-23.4761271,-51.1179013
+"Saint-Augustin-de-Desmaures, Canada",46.743354,-71.4569733
+"Quillota, Chile",-32.879997,-71.2473555
+"Luan, China",39.7629676,118.6588085
+"Baotou, China",40.6174777,109.944912
+"Qiandaohu, China",29.7377193,119.1868632
+"Fuzhou, China",26.0774954,119.2918215
+"Huzhou, China",30.8942995,120.0851114
+"Bol, Croatia",43.2605186,16.6520192
+"Umag, Croatia",45.4323587,13.5224098
+"Villena, Spain",38.6360967,-0.8659745
+"Tarragona, Spain",41.1172364,1.2546057
+"Les Franqueses del Valles, Spain",41.647559,2.3091778
+"Badalona, Spain",41.4493539,2.248254
+"Vic, Spain",41.9302021,2.2545943
+"Tauste, Spain",41.9202822,-1.2543731
+"Gijon, Spain",43.5449422,-5.66275
+"Pontevedra, Spain",42.428065,-8.6041447
+"Lannion, France",48.7322183,-3.4587994
+"Azay-le-Rideau, France",47.2614793,0.4667128
+"Deauville, France",49.3595018,0.0746638
+"Rognac, France",43.4872341,5.2342903
+"Villeneuve-Loubet, France",43.6579947,7.1217592
+"Bastia-Lucciana, France",42.554418,9.4821991
+"Cap d'Agde, France",43.2845374,3.5117752
+"Norwich, United Kingdom",52.6285576,1.2923954
+"Kachreti, Georgia",41.6733766,45.6745112
+"Cadolzburg, Germany",49.4591406,10.8563868
+"Metzingen, Germany",48.5397247,9.2831201
+"Offenbach, Germany",50.1055002,8.7610698
+"Guatemala, Guatemala",14.6416142,-90.5132836
+"Harmon, Guam",13.5067837,144.8100254
+"Gyula, Hungary",46.6438656,21.2747575
+"Szabolcsveresmart, Hungary",48.2924404,22.019809
+"Bali, Indonesia",-8.2271303,115.1919203
+"Bhopal, India",23.2584857,77.401989
+"Mandya, India",12.6368939,76.7275477
+"Chandigarh, India",30.7334421,76.7797143
+"Bhubaneswar, India",20.2602964,85.8394521
+"Dublin, Ireland",53.3493795,-6.2605593
+"Cervia, Italy",44.2609836,12.3495462
+"Caltanissetta, Italy",37.4902628,14.063284
+"Montesilvano, Italy",42.5136032,14.1516203
+"Bologna, Italy",44.4938203,11.3426327
+"Kingston, Jamaica",17.9712148,-76.7928128
+"Hinode, Japan",35.7423436,139.2574768
+"Nishi-Tokyo, Japan",35.6926888,139.6961241
+"Tokyo, Japan",35.6768601,139.7638947
+"Tanagura, Japan",37.0299106,140.3795451
+"Yanagawa City, Japan",33.1170145,130.3811412
+"Shymkent, Kazakhstan",42.3146962,69.5883282
+"Ust-Kamenogorsk, Kazakhstan",49.9484438,82.6274791
+"Villahermosa, Mexico",17.9884657,-92.9366326
+"HUAMANTLA, Mexico",19.3233319,-97.9145665
+"Huamantla, Mexico",19.3233319,-97.9145665
+"Maputo, Mozambique",-25.966213,32.56745
+"Amstelveen, Netherlands",52.3028209,4.8596844
+"Tauranga, New Zealand",-37.6859006,176.167505
+"Asuncion, Paraguay",-25.2800459,-57.6343814
+"Luque, Paraguay",-25.2665417,-57.4926928
+"Grodzisk Mazowiecki, Poland",52.1066223,20.6313441
+"Elvas, Portugal",38.8806123,-7.1637237
+"Oradea, Romania",47.0549163,21.9285231
+"Buzau, Romania",45.2692582,26.7748173
+"Targu Mures, Romania",46.5446253,24.561196
+"Hillcrest, South Africa",-29.775555,30.765556
+"Stellenbosch, South Africa",-33.934444,18.869167
+"Vrhnika, Slovenia",45.9475554,14.2875904
+"Hrastnik, Slovenia",46.1349361,15.1175752
+"Slovenska Bistrica, Slovenia",46.4073813,15.5635933
+"Slovenj Gradec, Slovenia",46.509144,15.0790677
+"Vaxjo, Sweden",56.8787183,14.8094385
+"Taipei, Taiwan",25.0375198,121.5636796
+"Hammamet, Tunisia",36.4012665,10.5572827
+"Kayseri, Turkey",38.7219011,35.4873214
+"Kampala, Uganda",0.3177137,32.5813539
+"San Diego CA, United States",32.7166921,-117.169295
+"Wichita KS, United States",37.6919295,-97.3375557
+"Tulsa OK, United States",36.1491852,-95.8621694
+"Los Angeles CA, United States",34.625739,-118.0826393
+"Lakewood CA, United States",33.8503463,-118.117191
+"Dallas TX, United States",32.8350573,-97.2983175
+"Rochester NY, United States",43.1576414,-77.6133531
+"Edwardsville IL, United States",38.7296083,-89.8845138
+"Southaven MS, United States",34.9873822,-90.0034862
+"Ann Arbor MI, United States",42.3108711,-83.691693
+"Louisville KY, United States",38.3276688,-85.6345672
+"Norman, United States",35.2225717,-97.4394816
+"Columbus, United States",39.9622601,-83.0007065
+"Tallahassee, United States",30.4380832,-84.2809332
+"Tashkent, Uzbekistan",41.3123363,69.2787079
+"Oslo, Norway",59.9133301,10.7389701
+"Hazebrouck, France",50.7226113,2.5360331
+"Indore, India",22.7203616,75.8681996
+"Vila Real de Santo António, Portugal",37.1946052,-7.4155628
+"Timaru, New Zealand",-44.3930254,171.2509786
+"Launceston, Australia",-41.4340813,147.1373496
+"Pretoria, South Africa",-25.7459277,28.1879101
+"Maanshan, China",31.6866105,118.5048377
+"Nonthaburi, Thailand",13.8610918,100.3456772
+"Sherbrooke, Canada",45.403271,-71.889038
+"Foggia, Italy",41.5028106,15.4528939
+"Saint-Dizier, France",48.6371125,4.9473513
+"Alaminos, Cyprus",34.8068728,33.4344219
+"Shenzhen, China",22.5445741,114.0545429
+"Santo Domingo Este, Dominican Republic",18.4936515,-69.8383703
+"Chacabuco, Argentina",-32.7414522,-65.2061252
+"Bengaluru, India",12.9767936,77.590082
+"Osaka, Japan",34.6937569,135.5014539
+"Oegstgeest, Netherlands",52.185433,4.4738856
+"Bastad, Sweden",56.4268963,12.8608789
+"Orlando FL, United States",28.5479786,-81.4127842
+"Szentendre, Hungary",47.6677606,19.0760467
+"Bistrita, Romania",47.1327012,24.4963949
+"Kotka, Finland",60.4672673,26.9459462
+"Coquimbo, Chile",-30.7546652,-70.9005536
+"Andong, South Korea",36.5634886,128.7260798
+"Ljubljana, Slovenia",46.0500268,14.5069289
+"Klagenfurt, Austria",46.623943,14.3075976
+"Värnamo, Sweden",57.184902,14.0410977
+"Ceska Lipa, Czech Republic",50.6865452,14.5372974
+"Messina, Italy",38.1937571,15.5542082
+"Zagreb, Croatia",45.8130967,15.9772795
+"San Salvador de Jujuy, Argentina",-24.1852569,-65.2994789
+"Figueira da Foz, Portugal",40.1485808,-8.855655
+"Salta, Argentina",-25.2269908,-64.5911956
+"Villavicencio, Colombia",4.1114595,-73.4967836
+"Bucaramanga, Colombia",7.1669842,-73.1047294
+"Nakhon Pathom, Thailand",13.8918425,100.0165659
+"Louisville, United States",38.2542376,-85.759407
+"Santa Tecla, El Salvador",13.673752,-89.2885987
+"Slobozia, Romania",44.5635999,27.3618477
+"Nova Gorica, Slovenia",45.9581509,13.6474998
+"Wuning, China",29.2777525,115.0476181
+"Segrate, Italy",45.4907352,9.2948204
+"Wels, Austria",48.1565472,14.0243752
+"Joinville, Brazil",-26.3044898,-48.8486726
+"Gentofte, Denmark",55.7535946,12.541436
+"Turku, Finland",60.4515932,22.2669991
+"Frankfurt, Germany",50.1106444,8.6820917
+"Gijón, Spain",43.5449422,-5.66275
+"Mistelbach, Austria",48.5694535,16.5720327
+"Krakow, Poland",50.0469432,19.9971534
+"Lausanne, Switzerland",46.5218269,6.6327025
+"Mar Del Plata, Argentina",-37.9976168,-57.5482079
+"Hurghada, Egypt",27.222556,33.8307062
+"Cuiaba, Brazil",-15.5986686,-56.0991301
+"Tamworth, Australia",-31.0900743,150.9290159
+"Barueri, Brazil",-23.5112184,-46.8764612
+"Otopeni, Romania",44.5507941,26.0729271
+"Perth, Australia",-31.9558967,115.8605784
+"Salvador, Brazil",-12.9822499,-38.4812772
+"Lexington KY, United States",37.7705236,-84.3129505
+"Rio de Janeiro, Brazil",-22.9110137,-43.2093727
+"Villers-lès-Nancy, France",48.6731344,6.1536378
+"Trois-Rivières, Canada",46.3432325,-72.5428485
+"Malta, Malta",35.9022113,14.4137381
+"Ibague, Colombia",4.4386033,-75.2108857
+"Santa Cruz do Sul, Brazil",-29.714209,-52.4285807
+"Manama, Bahrain",26.2235041,50.5822436
+"Las Palmas de Gran Canaria, Spain",28.1288694,-15.4349015
+"Criciuma, Brazil",-28.6789941,-49.3695627
+"Alcalá de Henares, Spain",40.481954,-3.363981
+"Gimcheon, South Korea",36.1398035,128.1139534
+"Ribeirao Preto, Brazil",-21.1776315,-47.8100983
+"Hradec Kralove, Czech Republic",50.2092113,15.8327512
+"Phan Thiet, Vietnam",10.9028645,108.0632846
+"La Paz, Bolivia",-16.4955455,-68.1336229
+"Gwalior, India",26.2037247,78.1573628
+"Lima, Peru",-12.0459808,-77.0305912
+"Hamilton, New Zealand",-37.7878809,175.281788
+"Marrakech, Morocco",31.6258257,-7.9891608
+"Agadir, Morocco",30.4205162,-9.5838532
+"Hyderabad, India",17.360589,78.4740613
+"Javea, Spain",38.7893804,0.1634168
+"Almoradi, Spain",38.1096615,-0.7919322
+"Pszczyna, Poland",49.9778089,18.9423721
+"San Jose, Costa Rica",9.9327707,-84.0796144
+"Yerba Buena, Argentina",-26.8121581,-65.2981714
+"La Plata, Argentina",-34.9206797,-57.9537638
+"Kolkata, India",22.5726459,88.3638953
+"Altamura, Italy",40.8285595,16.5527314
+"Wodonga, Australia",-36.1205539,146.8880837
+"Boca Raton, United States",26.3586885,-80.0830984
+"Orlando, United States",28.5421218,-81.379045
+"CEUTA, Spain",35.894422,-5.3558174
+"Mbombela, South Africa",-25.4729094,30.9772719
+"Islamabad, Pakistan",33.6938118,73.0651511
+"Castelldefels, Spain",41.2861022,1.9824173
+"Quito, Ecuador",-0.2201641,-78.5123274
+"Quinta do Lago, Portugal",37.8037119,-8.6849265
+"Gaborone, Botswana",-24.6581357,25.9088474
+"Louny, Czech Republic",50.3572914,13.7969195
+"Loulé, Portugal",37.1399532,-8.023324
+"Kutaisi, Georgia",42.2716078,42.7054475
+"Maringá, Brazil",-23.425269,-51.9382078
+"Maringa, Brazil",-23.425269,-51.9382078
+"Grado, Italy",45.6781065,13.3979091
+"Rosbach, Germany",50.2990872,8.6967275
+"Kranjska Gora, Slovenia",46.4502123,13.8434055
+"Troisdorf, Germany",50.8153071,7.1593271
+"Salinas, Ecuador",-2.2612497,-80.9237973
+San Luis Potosi,22.5000001,-100.4949145
+Tampere,61.4977929,23.7616372
+Knoxville,35.9603948,-83.9210261
+Cherbourg,49.6425343,-1.6249565
+Bratislava,48.1516988,17.1093063
+Szczecin,53.4298114,14.5928676
+Heilbronn,49.142291,9.218655
+Pozoblanco,38.3780204,-4.848573
+Braunschweig,52.2646577,10.5236066
+Montevideo,-34.9058916,-56.1913095
+Prostejov,49.4721467,17.1117979
+Lexington,38.0464066,-84.4970393
+Prague,50.0874654,14.4212535
+Champaign,40.1164841,-88.2430932
+Tallahassee,30.4380832,-84.2809332
+Segovia,40.9481192,-4.1172101
+Seville,37.3886303,-5.9953403
+Poznan,52.4006632,16.9197326
+Bergamo,45.7566557,9.7542192
+Granby,45.3990409,-72.721834
+Coquimbo,-30.7546652,-70.9005536
+Troisdorf,50.8153071,7.1593271
+Santa Fe,-30.3154739,-61.1645076
+Malaga,36.7647913,-4.4422005
+Troyes,48.2971626,4.0746257
+"Tunis City, Tunisia",36.900303,10.1230006
+Busan,35.1799528,129.0752365
+Genoa,44.40726,8.9338624
+Tiburon,37.8775332,-122.460808
+Saint Brieuc,48.5141134,-2.7603283
+Ostrava,49.8354045,18.292978
+Cordenons,45.9881831,12.7067897
+Noumea,-22.2745264,166.442419
+Orleans,47.9027336,1.9086066
+Rome GA,34.257038,-85.1646726
+Zug,47.1486137,8.5539378
+Grodzisk Mazowiecki,52.1066223,20.6313441
+Nonthaburi,13.8610918,100.3456772
+Chicago,41.8755616,-87.6244212
+Charleston,32.7884363,-79.9399309
+Valencia,39.4697065,-0.3763353
+Maspalomas,27.7527731,-15.5970832
+Szekesfehervar,47.1910169,18.410811
+Temuco,-38.7358908,-72.590538
+Oeiras,38.6925777,-9.3123076
+Piracicaba,-22.725165,-47.6493269
+Ottignies Louvain,50.666357,4.5690502
+Tenerife,28.2935785,-16.6214471
+Vilnius,54.6870458,25.2829111
+Rovereto,45.886548,11.0452369
+Vina Del Mar,-33.0244535,-71.5517636
+Les Franqueses Del Valles,41.647559,2.3091778
+Girona,41.9793006,2.8199439
+Waco,31.5491899,-97.1474628
+Cagliari,39.2171994,9.113311
+"Leon, Mexico",21.121965,-101.6829766
+Skopje,41.9962164,21.4318935
+Tyler,32.3512601,-95.3010624
+Palmas Del Mar,18.0849921,-65.8034056
+Modena,44.5384728,10.9359609
+Karlsruhe,49.0068705,8.4034195
+Medellin,6.2697324,-75.6025597
+Bloomfield Hills,42.583645,-83.2454883
+Palo Alto,37.4443293,-122.1598465
+Antofagasta,-23.6463741,-70.3980033
+Bad Waltersdorf,47.168506,16.0088882
+Olbia,40.9232659,9.5027442
+Curitiba,-25.4295963,-49.2712724
+Shenzhen,22.5445741,114.0545429
+Danderyd,59.4043647,18.0358505
+Milan,45.4641943,9.1896346
+Como,45.9394759,9.1494101
+Rennes,48.1113387,-1.6800198
+Bordeaux,44.841225,-0.5800364
+San Benedetto Del Tronto,42.9525328,13.8807144
+Burnie,-41.0523688,145.9064073
+Savannah,32.0790074,-81.0921335
+Sarasota,27.3365805,-82.5308545
+Charlottesville,38.029306,-78.4766781
+Ortisei,46.5752077,11.6721382
+Quimper,47.9960325,-4.1024782
+Campinas,-22.9056391,-47.059564
+Sibiu,45.7973912,24.1519202
+Yokohama,35.4503381,139.6343802
+Blois,47.5876861,1.3337639
+Liberec,50.7702648,15.0583947
+Meerbusch,51.2652237,6.6760958
+Mouilleron-Le-Captif,46.7203336,-1.4590747
+Cuernavaca,18.9331321,-99.2599579
+Guangzhou,23.1288454,113.2590064
+Aix En Provence,43.5298424,5.4474738
+Vicenza,45.6348591,11.4063543
+Istanbul,41.006381,28.9758715
+Santo Domingo,18.4713858,-69.8918436
+Drummondville,45.8864303,-72.5018764
+Seoul,37.5666791,126.9782914
+Surbiton,51.3937557,-0.3033105
+Cary,35.7882893,-78.7812081
+"Fairfield CA, United States",38.2521006,-122.0408672
+Brest,48.3905283,-4.4860088
+Monterrey,25.6802019,-100.315258
+"Bogota, Colombia",4.6533817,-74.0836331
+Guayaquil,-2.1900572,-79.8868669
+Canberra,-35.2975906,149.1012676
+Kobe,34.6932379,135.1943764
+Gwangju,35.1594647,126.8515034
+Barletta,41.3214976,16.2868696
+Winnipeg,49.8955367,-97.1384584
+Playford,-34.6942801,138.7309412
+Koblenz,50.3533278,7.5943951
+Francavilla Al Mare,42.4168011,14.2914819
+Nottingham,52.9534193,-1.1496461
+Lisbon,38.7077507,-9.1365919
+Zhangjiagang,31.8782976,120.5514595
+Ismaning,48.2242434,11.6715263
+Bengaluru,12.9767936,77.590082
+Chennai,13.0836939,80.270186
+Lille,50.6365654,3.0635282
+Alicante,38.3436365,-0.4881708
+Puerto Vallarta,20.6407176,-105.220306
+Braga,41.5510583,-8.4280045
+Augsburg,48.3690341,10.8979522
+Yokkaichi,34.9648428,136.624845
+Columbus,39.9622601,-83.0007065
+Helsinki,60.1666204,24.9435408
+Maia,41.2373456,-8.6299982
+Mexico City,19.3207722,-99.1514678
+Matsuyama,33.8395188,132.7653521
+Split,43.5116383,16.4399659
+Todi,42.7824434,12.4062554
+Iasi,47.1615598,27.5837814
+Perugia,43.1070321,12.4029962
+Ilkley,53.9257254,-1.824441
+Cassis,43.2140359,5.5396318
+Calgary,51.0456064,-114.057541
+Cleveland,41.4996574,-81.6936772
+Pau,43.2957547,-0.3685668
+Phoenix,33.4484367,-112.074141
+Murcia,37.9347521,-1.1131029
+Little Rock,34.7465071,-92.2896267
+Amersfoort,52.1637703,5.4088845
+Trieste,45.6496485,13.7772781
+Antalya,36.8865728,30.7030242
+Concepcion,-36.8270698,-73.0502064
+Zadar,44.1168594,15.2353257
+Santa Cruz De La Sierra,-17.7834217,-63.1820853
+Lugano,46.0038007,8.9512275
+Porto,41.1502195,-8.6103497
+Salzburg,47.7981346,13.0464806
+San Marino,43.9458623,12.458306
+Luedenscheid,51.218137,7.6396975
+Verona,45.4424977,10.9857377
+Saint-Tropez,43.2727191,6.6405225
+Tulln,48.3311702,16.05179
+Biel-Bienne,47.1402077,7.2439029
+"Brasília (Federal District), Brazil",-15.8032581,-47.8854767
+Manama,26.2235041,50.5822436
+Florianopolis,-27.5973002,-48.5496098
+"Tigre, Argentina",-34.4235341,-58.5817628
+Sanremo,43.8362985,7.7772658
+Mauthausen,48.2404063,14.5162667
+"Cali, Colombia",3.4108435,-76.5812127
+Roseto Degli Abruzzi,42.677577,14.0144636
+Montechiarugolo,44.6934008,10.4224798
+Punta Del Este,-34.9632342,-54.9439981
+Ottignies-Louvain-la-Neuve,50.6654216,4.5674107
+Glasgow,55.861155,-4.2501687
+Kigali,-1.9534357,30.1140089
+New Delhi,28.6138954,77.2090057
+Asuncion,-25.2800459,-57.6343814
+Merida,38.9174665,-6.3443977
+Naples,40.8358846,14.2487679
+Sao Leopoldo,-29.7544405,-51.1516497
+San Miguel De Tucuman,-26.8303703,-65.2038133
+Porto Alegre,-30.0324999,-51.2303767
+Santos,-23.9609448,-46.3166316
+Wuxi,31.5776626,120.2952752
+Taipei,25.0375198,121.5636796
+Kachreti,41.6733766,45.6745112
+Zagreb,45.8130967,15.9772795
+Sassuolo,44.5409769,10.7829023
+Ibague,4.4386033,-75.2108857
+Brasov,45.6525105,25.6105654
+Bonn,50.7352621,7.1024635
+Lincoln,40.8088861,-96.7077751
+Dobrich,43.6637775,27.9002123
+Jinan,36.6519754,117.1138479
+Manacor,39.5696458,3.2106461
+Las Vegas,36.1674263,-115.1484131
+Mouilleron le Captif,46.7203336,-1.4590747
+Villena,38.6360967,-0.8659745
+Roanne,46.0345572,4.0729178
+Shenzhen Longhua,22.6994309,114.0398603
+St. Brieuc,48.5141134,-2.7603283
+Sioux Falls,43.5476008,-96.7293629
+Brazzaville,-4.2694407,15.2712256
+"Montemar, Alicante, Spain",38.0573505,-0.765626
+Sao Paulo,-23.5506507,-46.6333824
+Manzanillo,41.586343,-4.189038
+Buenos Aires Tigre,-34.4235341,-58.5817628
+Punta del Este,-34.9632342,-54.9439981
+Rosario,-32.9593609,-60.6617024
+San Diego,32.7174202,-117.162772
+Hersonissos,35.3059324,25.4104556
+Thionville,49.3579272,6.1675872
+Cap Cana,18.5044392,-68.3830103
+Morelia,19.6546004,-101.2623797
+Menorca,39.9492572,4.0499642
+Monza,45.6395418,9.2788304
+Abidjan,5.320357,-4.016107
+San Miguel de Tucuman,-26.8303703,-65.2038133
+Aix-en-Provence,43.5298424,5.4474738
+Francavilla al Mare,42.4168011,14.2914819
+Tbilisi,41.6934591,44.8014495
+Chisinau,47.0245117,28.8322923
+Birmingham,52.4948994,-1.8518439
+Royan,45.6245332,-1.0287636
+Santa Cruz de la Sierra,-17.7834217,-63.1820853
+Bunschoten,52.2466546,5.3571571
+Hagen,51.3582945,7.473296
+Barranquilla,11.0101922,-74.8231794
+Cancun,21.1527467,-86.8425761
+"Sumter SC, United States",33.6748904,-79.8441465
+Biella,45.5669538,8.086912
+Guangzhou Huangpu,23.1829981,113.4748416
+Targu Mures,46.5446253,24.561196
+Winston Salem,36.0998131,-80.2440518
+Jingshan,31.0161047,113.1280679
+Shenzhen Futian,22.5243632,114.049894
+Costa do Sauipe,-12.4391251,-37.9233062
+Suzhou,31.311123,120.6212881
+Lima Los Inkas,-12.0811058,-76.9663895
+Monastir,35.7707582,10.8280511
+Soma Bay,26.8353707,33.9420625
+Islamabad,33.6938118,73.0651511
+Itajai,-26.9046787,-48.6552979
+Phan Thiet,10.9028645,108.0632846
+Cesenatico,44.1999283,12.3969692
+Baton Rouge,30.4494155,-91.1869659
+Metepec,19.2511338,-99.5937281
+Bucaramanga,7.1669842,-73.1047294
+Miyazaki,32.097681,131.294542
+Wuning,29.2777525,115.0476181
+Shymkent,42.3146962,69.5883282
+Jiujiang,29.388607,115.3820227
+Cervia,44.2609836,12.3495462
+Centurion,-25.836389,28.180278
+Kosice,50.1797445,15.5349958
